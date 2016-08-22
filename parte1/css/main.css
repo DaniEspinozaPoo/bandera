@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+}
+
+.box{
+	height: 100px;
+	
+
+}
+
+.yellow { 
+	background-color: #FEFF00;
+
+}
+.red {
+	background-color: #FF0000;
+}/* Escribe tu css aqui */
